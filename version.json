@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.3.0",
-  "apkUrl": "https://github.com/KrasimirKralev/kasata-releases/releases/download/v1.3.0/Kasata.apk",
-  "notes": "Crypto & bills now sync between phones, expenses are tagged Krasi/Desi automatically, and updates install from inside the app."
+  "versionCode": 6,
+  "versionName": "1.4.0",
+  "apkUrl": "https://github.com/KrasimirKralev/kasata-releases/releases/download/v1.4.0/Kasata.apk",
+  "notes": "New: 6-month spending history chart on the Budget screen — tap any month to see spent vs income and over/under budget."
 }
