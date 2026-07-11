@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.4.0",
-  "apkUrl": "https://github.com/KrasimirKralev/kasata-releases/releases/download/v1.4.0/Kasata.apk",
-  "notes": "New: 6-month spending history chart on the Budget screen — tap any month to see spent vs income and over/under budget."
+  "versionCode": 7,
+  "versionName": "1.5.0",
+  "apkUrl": "https://github.com/KrasimirKralev/kasata-releases/releases/download/v1.5.0/Kasata.apk",
+  "notes": "New: 🤖 in-app assistant — chat about your money and log expenses by text — plus a direct line to Krasi's PC. Also: 6-month spending history chart on the Budget screen."
 }
