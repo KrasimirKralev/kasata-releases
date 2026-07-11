@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "2.0.0",
-  "apkUrl": "https://github.com/KrasimirKralev/kasata-releases/releases/download/v2.0.0/Kasata.apk",
-  "notes": "V2 🎉 — the keyboard finally stays out of the way (fixed at the native level), plus chat V2: typing dots, grouped bubbles with names and times, tap-to-ask suggestions, and a smoother mode switch."
+  "versionCode": 11,
+  "versionName": "2.1.0",
+  "apkUrl": "https://github.com/KrasimirKralev/kasata-releases/releases/download/v2.1.0/Kasata.apk",
+  "notes": "Известия за нови версии 🔔 — телефонът сам ще ти каже, когато има ъпдейт (проверка на ~6 часа, едно известие на версия). Асистентът вече показва истинската причина при грешка."
 }
