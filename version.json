@@ -1,6 +1,6 @@
-{
-  "versionCode": 12,
-  "versionName": "2.2.0",
-  "apkUrl": "https://github.com/KrasimirKralev/kasata-releases/releases/download/v2.2.0/Kasata.apk",
-  "notes": "Асистентът 🤖 вече отговаря през Claude на компютъра — за секунди, когато там върви сесия. Без API ключ."
+﻿{
+    "apkUrl":  "https://github.com/KrasimirKralev/kasata-releases/releases/download/v2.3.0/Kasata.apk",
+    "versionCode":  13,
+    "versionName":  "2.3.0",
+    "notes":  "Памет за категории 🧠 — маркирай магазин веднъж и всяко следващо плащане от него само си слага категорията. Плюс: лентата за ъпдейт вече се появява при всяко отваряне."
 }
