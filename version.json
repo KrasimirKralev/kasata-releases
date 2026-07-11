@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.5.0",
-  "apkUrl": "https://github.com/KrasimirKralev/kasata-releases/releases/download/v1.5.0/Kasata.apk",
-  "notes": "New: 🤖 in-app assistant — chat about your money and log expenses by text — plus a direct line to Krasi's PC. Also: 6-month spending history chart on the Budget screen."
+  "versionCode": 8,
+  "versionName": "1.6.0",
+  "apkUrl": "https://github.com/KrasimirKralev/kasata-releases/releases/download/v1.6.0/Kasata.apk",
+  "notes": "🎙 Voice input — tap the mic on the chat and dictate (Bulgarian works). The keyboard no longer covers the message box, and the chat got a facelift with names, times and avatars."
 }
