@@ -1,6 +1,6 @@
 {
   "versionCode": 12,
   "versionName": "2.2.0",
-  "apkUrl": "https://github.com/KrasimirKralev/kasata-releases/releases/download/v2.1.0/Kasata.apk",
+  "apkUrl": "https://github.com/KrasimirKralev/kasata-releases/releases/download/v2.2.0/Kasata.apk",
   "notes": "Асистентът 🤖 вече отговаря през Claude на компютъра — за секунди, когато там върви сесия. Без API ключ."
 }
