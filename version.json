@@ -1,6 +1,6 @@
 {
-    "apkUrl":  "https://github.com/KrasimirKralev/kasata-releases/releases/download/v2.4.0/Kasata.apk",
-    "versionCode":  14,
-    "versionName":  "2.4.0",
-    "notes":  "Снимки в чата 📷 + известия, когато Claude ти пише 💬. Прати снимка с бутона до микрофона; отговорите пристигат като известие дори при затворено приложение."
+    "apkUrl":  "https://github.com/KrasimirKralev/kasata-releases/releases/download/v2.5.0/Kasata.apk",
+    "versionCode":  15,
+    "versionName":  "2.5.0",
+    "notes":  "Призрачно довършване 👻 — избраният от теб Вариант 5: полето за магазин само дописва името в сиво, бутон за приемане и ред, който показва коя категория идва автоматично."
 }
