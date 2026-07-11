@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.6.0",
-  "apkUrl": "https://github.com/KrasimirKralev/kasata-releases/releases/download/v1.6.0/Kasata.apk",
-  "notes": "🎙 Voice input — tap the mic on the chat and dictate (Bulgarian works). The keyboard no longer covers the message box, and the chat got a facelift with names, times and avatars."
+  "versionCode": 9,
+  "versionName": "1.6.1",
+  "apkUrl": "https://github.com/KrasimirKralev/kasata-releases/releases/download/v1.6.1/Kasata.apk",
+  "notes": "🎙 Voice input on the chat (Bulgarian works), keyboard no longer covers the message box, mirrored text fixed, chat facelift with names, times and avatars."
 }
