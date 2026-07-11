@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.6.1",
-  "apkUrl": "https://github.com/KrasimirKralev/kasata-releases/releases/download/v1.6.1/Kasata.apk",
-  "notes": "🎙 Voice input on the chat (Bulgarian works), keyboard no longer covers the message box, mirrored text fixed, chat facelift with names, times and avatars."
+  "versionCode": 10,
+  "versionName": "2.0.0",
+  "apkUrl": "https://github.com/KrasimirKralev/kasata-releases/releases/download/v2.0.0/Kasata.apk",
+  "notes": "V2 🎉 — the keyboard finally stays out of the way (fixed at the native level), plus chat V2: typing dots, grouped bubbles with names and times, tap-to-ask suggestions, and a smoother mode switch."
 }
