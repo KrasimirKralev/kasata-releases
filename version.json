@@ -1,6 +1,6 @@
 {
-    "apkUrl":  "https://github.com/KrasimirKralev/kasata-releases/releases/download/v2.5.0/Kasata.apk",
-    "versionCode":  15,
-    "versionName":  "2.5.0",
-    "notes":  "Призрачно довършване 👻 — избраният от теб Вариант 5: полето за магазин само дописва името в сиво, бутон за приемане и ред, който показва коя категория идва автоматично."
+    "apkUrl":  "https://github.com/KrasimirKralev/kasata-releases/releases/download/v2.6.0/Kasata.apk",
+    "versionCode":  16,
+    "versionName":  "2.6.0",
+    "notes":  "Общи категории 🏷️ — категориите вече се споделят между двата телефона. Нова икона за всяка: Settings → Categories → тап на категория за име/икона, или си направи нова с избор от 32 икони."
 }
