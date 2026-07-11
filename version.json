@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "2.1.0",
+  "versionCode": 99,
+  "versionName": "9.9-test",
   "apkUrl": "https://github.com/KrasimirKralev/kasata-releases/releases/download/v2.1.0/Kasata.apk",
   "notes": "Известия за нови версии 🔔 — телефонът сам ще ти каже, когато има ъпдейт (проверка на ~6 часа, едно известие на версия). Асистентът вече показва истинската причина при грешка."
 }
