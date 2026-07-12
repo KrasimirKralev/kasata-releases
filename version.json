@@ -1,6 +1,6 @@
 {
-    "apkUrl":  "https://github.com/KrasimirKralev/kasata-releases/releases/download/v2.6.0/Kasata.apk",
-    "versionCode":  16,
-    "versionName":  "2.6.0",
-    "notes":  "Общи категории 🏷️ — категориите вече се споделят между двата телефона. Нова икона за всяка: Settings → Categories → тап на категория за име/икона, или си направи нова с избор от 32 икони."
+    "apkUrl":  "https://github.com/KrasimirKralev/kasata-releases/releases/download/v2.7.0/Kasata.apk",
+    "versionCode":  17,
+    "versionName":  "2.7.0",
+    "notes":  "Интерактивни демота в чата 🎛 — дизайн вариантите вече не са снимки: тап върху демо картата ги отваря НА ЖИВО (тъмни, с анимации), пробваш ги и избираш с бутон директно от демото."
 }
