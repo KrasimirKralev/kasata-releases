@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "2.8.0",
-  "apkUrl": "https://github.com/KrasimirKralev/kasata-releases/releases/download/v2.8.0/Kasata.apk",
-  "notes": "Новият стъклен Add Expense ✨ — одобреният Дизайн 1: аврора фон, стъклени панели, премиум бутони и запис с потвърждение в две стъпки."
+  "versionCode": 20,
+  "versionName": "2.8.1",
+  "apkUrl": "https://github.com/KrasimirKralev/kasata-releases/releases/download/v2.8.1/Kasata.apk",
+  "notes": "Поправка: клавиатурата за сумата вече не ляга върху навигационните бутони при първо отваряне."
 }
